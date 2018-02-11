@@ -140,7 +140,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'America/Sao_Paulo'
+TIME_ZONE = 'Asia/Kolkata'
 
 USE_I18N = True
 
